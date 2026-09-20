@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Beefriends",
+    "description": "Mobile-first social discovery platform for Binusian students to find campus friends, match through shared interests, chat in realtime, manage profiles, and receive match or chat notifications.",
+    "image": "/Beefriends.jpg",
+    "category": "Mobile Application",
+    "year": "2026",
+    "techStack": [
+      { "label": "Nest js", "icon": "nestJS" },
+      { "label": "Socket.IO", "icon": "socketIO" },
+      { "label": "Postgres sql", "icon": "postgres" },
+      { "label": "Expo", "icon": "expo"}
+    ],
+    "link": "https://github.com/BeeeFriends"
+  },
+  {
+    "title": "MoodTune",
+    "description": "Mood-driven music platform that recommends songs based on mood that user prompt or choose with label",
+    "image": "/MoodTune.jpg",
+    "category": "Mobile Application",
+    "year": "2026",
+    "techStack": [
+      { "label": "Flutter", "icon": "flutter" },
+      { "label": "Express", "icon": "expressJS" },
+      { "label": "My Sql", "icon": "mySql" },
+      { "label": "sqlite", "icon": "sqlite" }
+    ],
+    "link": "https://github.com/SemogaLulusAmin/MoodTune"
+  },
+  {
+    "title": "Genshin Import",
+    "description": "A mobile application of sell and buy weapons and artifacts with theme of genshin import",
+    "image": "/GenshinImport.jpg",
+    "category": "Mobile Application",
+    "year": "2026",
+    "techStack": [
+      { "label": "Flutter", "icon": "flutter" },
+      { "label": "Express", "icon": "expressJS" },
+      { "label": "My Sql", "icon": "mySql" }
+    ],
+    "link": "#"
+  }
+]
