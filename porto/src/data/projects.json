@@ -39,5 +39,17 @@
       { "label": "My Sql", "icon": "mySql" }
     ],
     "link": "https://github.com/SemogaLulusAmin/Genshin_Import"
+  },
+    {
+    "title": "Logiway",
+    "description": "A finetuning model of Indobert model to detect pungli and give the shortest path using A* for truck",
+    "image": "/Logiway.png",
+    "category": "Web Application / AI",
+    "year": "2026",
+    "techStack": [
+      { "label": "React", "icon": "react" },
+      { "label": "Express", "icon": "expressJS" }
+    ],
+    "link": "https://github.com/Logiway/Logiway-Core"
   }
 ]
