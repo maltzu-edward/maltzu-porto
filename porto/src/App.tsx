@@ -419,9 +419,6 @@ export default function App() {
               <p>
                 I&apos;m Edward Aria Tanujaya, a computer science undergradute student from Bina Nusantara University. My main focus is software development, and I enjoy turning complex ideas into calm, intuitive experiences. I have built various projects using different technology stacks.
               </p>
-              <p>
-                I care about the way a product works, feels, and earns trust.
-              </p>
             </div>
             <div className="skill-cards" aria-label="Technical skills">
               <article className="skill-card">
